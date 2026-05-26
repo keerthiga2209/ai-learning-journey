@@ -1,0 +1,59 @@
+Today’s Resume Plan (Day 2)
+🎯 Goal
+
+Become comfortable with:
+
+loops
+conditions
+functions
+lists
+dictionaries
+problem-solving mindset
+
+These are VERY important for AI engineering.
+
+
+  Practice Questions (Do Yourself)
+Beginner
+Create a function that adds 2 numbers
+Create a list of 5 fruits and print all
+Find largest number in a list
+Count even numbers in a list
+Create a dictionary for a car
+Intermediate
+Reverse a string without using reverse()
+Count frequency of characters in a string
+Find duplicate numbers in a list
+Check palindrome
+Sort a list manually
+🔥 AI Engineer Relevance
+
+These exact concepts are used in:
+
+preprocessing datasets
+calling AI APIs
+vector databases
+JSON handling
+LangChain pipelines
+model responses
+backend AI systems
+🛠 Mini Project (Today)
+
+Build this in Python:
+
+Student Marks System
+
+Features:
+
+store student names
+store marks
+calculate average
+print topper
+fail/pass check
+
+This will improve:
+
+logic
+functions
+dictionaries
+loops
